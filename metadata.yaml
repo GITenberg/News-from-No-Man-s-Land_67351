@@ -1,0 +1,33 @@
+_repo: News-from-No-Man-s-Land_67351
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Birdwood, W. R.
+    gutenberg_agent_id: '54221'
+    url: http://www.gutenberg.org/2009/agents/54221
+creator:
+  author:
+    agent_name: Green, James
+    birthdate: 1865
+    deathdate: 1948
+    gutenberg_agent_id: '53960'
+    url: http://www.gutenberg.org/2009/agents/53960
+description: ''
+gutenberg_issued: '2022-02-07'
+identifiers:
+  gutenberg: '67351'
+language: en
+pgterms:marc905: 20210728195048green
+pgterms:marc906: '1917'
+pgterms:marc907: GB
+production_note: Guus Snijders and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from scans of public domain works at The National Library
+  of Australia.)
+publication_note: United Kingdom :Charles H. Kelly,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: News from No Man's Land
+url: http://www.gutenberg.org/ebooks/67351
