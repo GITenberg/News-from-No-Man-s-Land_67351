@@ -5,6 +5,9 @@ contributor:
     agent_name: Birdwood, W. R.
     gutenberg_agent_id: '54221'
     url: http://www.gutenberg.org/2009/agents/54221
+covers:
+- cover_type: archival
+  image_path: 67351-h/images/cover.jpg
 creator:
   author:
     agent_name: Green, James
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '53960'
     url: http://www.gutenberg.org/2009/agents/53960
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67351#News-from-No-Man-s-Land
 gutenberg_issued: '2022-02-07'
 identifiers:
   gutenberg: '67351'
